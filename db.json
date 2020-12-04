@@ -1,4 +1,6 @@
 {
+  -ads: [
+-{
     title: "Time to Share: 6 for $3.99*",
     img:
       "https://res.cloudinary.com/dx4wkpab8/image/upload/v1573640170/comp_plate_promo1_wsmolg.png",
@@ -10,7 +12,7 @@
       "https://res.cloudinary.com/dx4wkpab8/image/upload/v1573640170/comp_plate_promo1_wsmolg.png",
     id: 1,
   },
-  {
+  -{
     title: "Rise 'n shine",
     img:
       "https://res.cloudinary.com/dx4wkpab8/image/upload/v1573640171/comp_plate_promo2_nlqjfe.png",
@@ -22,7 +24,7 @@
       "https://res.cloudinary.com/dx4wkpab8/image/upload/v1573640171/comp_plate_promo2_nlqjfe.png",
     id: 2,
   },
-  {
+  -{
     title: "PM Snackers: Brownie Bites",
     img:
       "https://res.cloudinary.com/dx4wkpab8/image/upload/v1573640171/comp_plate_promo4_f87x7g.png",
@@ -34,7 +36,7 @@
       "https://res.cloudinary.com/dx4wkpab8/image/upload/v1573640171/comp_plate_promo4_f87x7g.png",
     id: 3,
   },
-  {
+  -{
     title: "PM Snackers: Brownie Bites 2",
     img:
       "https://res.cloudinary.com/dx4wkpab8/image/upload/v1573640171/comp_plate_promo3_wnp43x.png",
@@ -46,7 +48,7 @@
       "https://res.cloudinary.com/dx4wkpab8/image/upload/v1573640171/comp_plate_promo4_f87x7g.png",
     id: 4,
   },
-  {
+  -{
     title: "PM Snackers: Brownie Bites",
     img:
       "https://res.cloudinary.com/dx4wkpab8/image/upload/v1573640171/comp_plate_promo4_f87x7g.png",
@@ -58,3 +60,5 @@
       "https://res.cloudinary.com/dx4wkpab8/image/upload/v1573640171/comp_plate_promo4_f87x7g.png",
     id: 5,
   },
+]
+}
