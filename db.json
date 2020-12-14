@@ -31,7 +31,7 @@
       "name": "iPhone 5"
     },
     {
-      "category": "Electronics",
+      "category": "Electronics", 
       "price": "$199.99",
       "stocked": true,
       "name": "Nexus 7"
